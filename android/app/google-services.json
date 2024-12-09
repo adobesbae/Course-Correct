@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "196471462485",
+    "project_id": "course-correct-e31f4",
+    "storage_bucket": "course-correct-e31f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196471462485:android:32f284ca7fd82e02e112dc",
+        "android_client_info": {
+          "package_name": "com.corse.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196471462485-osbe40b51lt7fg9lp0f64a6vhsj00dv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.corse.app",
+            "certificate_hash": "2a41c5f9824da6b6d40bf0aa08867bc73b13a5c8"
+          }
+        },
+        {
+          "client_id": "196471462485-alup3pb30eqn2dno4esrfcm3it98bpk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz-i3DWX6RknINGEfpocDPKJm5vrcoVLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196471462485-alup3pb30eqn2dno4esrfcm3it98bpk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
